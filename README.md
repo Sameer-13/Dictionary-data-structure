@@ -16,6 +16,7 @@ The dictionary data structure is a data structure implemented using AVL tree, wh
 
 ## Get started
 - use the following command to clone the repository:
+
 ```$ git clone https://github.com/Sameer-13/Dictionary-data-structure.git```
 - replaec ```mydictionary.txt``` file with your dictionary file or add it to the folder then call it when you run the program
 
