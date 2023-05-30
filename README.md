@@ -1,4 +1,4 @@
-# Dictionary-data-structure
+# Dictionary-data-structure ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sameer-13/Dictionary-data-structure)
 The dictionary data structure is a data structure implemented using AVL tree, which enables users to filter their dictionary from duplicated words, along with the ability to apply several operations on it including adding, deleting, searching, saving, and searching for similar words.
 
 ## Demo
