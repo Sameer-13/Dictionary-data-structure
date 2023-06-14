@@ -2,6 +2,7 @@
 The dictionary data structure is a data structure implemented using AVL tree, which enables users to filter their dictionary from duplicated words, along with the ability to apply several operations on it including adding, deleting, searching, saving, and searching for similar words.
 
 ## Demo
+![Untitled_video_-_Made_with_Clipchamp_AdobeExpress (1)](https://github.com/Sameer-13/Dictionary-data-structure/assets/106761486/09ab0df1-c682-49b6-afe0-95608a7b0562)
 
 
 ## Methods Efficiency
