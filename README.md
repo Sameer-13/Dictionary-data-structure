@@ -3,7 +3,7 @@ The dictionary data structure is a data structure implemented using AVL tree, wh
 
 ## Demo
 
-![Untitled_video_-_Made_with_Clipchamp_AdobeExpress (1)](https://github.com/Sameer-13/Dictionary-data-structure/assets/106761486/04a10931-a54f-4d6c-b39b-e31def9ac31c)
+
 ## Methods Efficiency
 | Method name | Efficiency |
 |     :---:      |     :---:      |
